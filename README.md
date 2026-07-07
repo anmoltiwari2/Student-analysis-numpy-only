@@ -141,8 +141,8 @@ This project helped me understand:
 
 
 ## Output screenshots
-![output 1](images/Screenshot(24).png)
-![output 1](images/Screenshot(25).png)
+![output 1](images/Screenshot%20(24).png)
+![output 1](images/Screenshot%20(25).png)
 
 ## 👨‍💻 Author
 
